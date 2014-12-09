@@ -7,7 +7,7 @@
       "TreePath": ".",
       "Name": "cgo_sample",
       "Kind": "package",
-      "File": ".",
+      "File": "./",
       "DefStart": 0,
       "DefEnd": 0,
       "Exported": true,

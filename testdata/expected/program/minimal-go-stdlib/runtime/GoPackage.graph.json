@@ -7,7 +7,7 @@
       "TreePath": ".",
       "Name": "runtime",
       "Kind": "package",
-      "File": "src/runtime",
+      "File": "src/runtime/",
       "DefStart": 0,
       "DefEnd": 0,
       "Exported": true,

@@ -7,7 +7,7 @@
       "TreePath": ".",
       "Name": "mypkg",
       "Kind": "package",
-      "File": "mypkg",
+      "File": "mypkg/",
       "DefStart": 0,
       "DefEnd": 0,
       "Exported": true,

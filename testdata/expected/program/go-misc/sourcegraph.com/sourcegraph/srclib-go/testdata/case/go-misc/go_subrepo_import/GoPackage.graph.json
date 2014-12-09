@@ -7,7 +7,7 @@
       "TreePath": ".",
       "Name": "go_subrepo_import",
       "Kind": "package",
-      "File": "go_subrepo_import",
+      "File": "go_subrepo_import/",
       "DefStart": 0,
       "DefEnd": 0,
       "Exported": true,

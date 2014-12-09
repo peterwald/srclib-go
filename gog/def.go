@@ -111,7 +111,7 @@ func (g *Grapher) NewPackageDef(pkgInfo *loader.PackageInfo, pkg *types.Package)
 
 		DefKey: &DefKey{PackageImportPath: pkg.Path(), Path: []string{}},
 
-		File: pkgDir,
+		File: pkgDir + "/",
 
 		DefInfo: definfo.DefInfo{
 			Exported: true,

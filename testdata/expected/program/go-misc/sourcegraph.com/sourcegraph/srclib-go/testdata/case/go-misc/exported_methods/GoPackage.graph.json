@@ -7,7 +7,7 @@
       "TreePath": ".",
       "Name": "exported_methods",
       "Kind": "package",
-      "File": "exported_methods",
+      "File": "exported_methods/",
       "DefStart": 0,
       "DefEnd": 0,
       "Exported": true,

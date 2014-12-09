@@ -7,7 +7,7 @@
       "TreePath": ".",
       "Name": "fmt",
       "Kind": "package",
-      "File": "src/fmt",
+      "File": "src/fmt/",
       "DefStart": 0,
       "DefEnd": 0,
       "Exported": true,

@@ -7,7 +7,7 @@
       "TreePath": ".",
       "Name": "mypkg",
       "Kind": "package",
-      "File": "vendor/src/github.com/alice/mypkg",
+      "File": "vendor/src/github.com/alice/mypkg/",
       "DefStart": 0,
       "DefEnd": 0,
       "Exported": true,

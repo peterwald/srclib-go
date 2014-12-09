@@ -215,6 +215,12 @@ func relPath(base, path string) string {
 		rp = rp[len(prefix)+2:]
 	}
 
+	// If the orig path ended with a "/", then it refers to a
+	// dir. Re-add the trailing slash in the return value.
+	if strings.HasSuffix(path, "/") {
+		rp += "/"
+	}
+
 	return rp
 }
 

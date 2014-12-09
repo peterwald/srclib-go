@@ -7,7 +7,7 @@
       "TreePath": ".",
       "Name": "dummy1",
       "Kind": "package",
-      "File": "src/dummy1",
+      "File": "src/dummy1/",
       "DefStart": 0,
       "DefEnd": 0,
       "Exported": true,
