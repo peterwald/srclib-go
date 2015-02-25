@@ -101,8 +101,7 @@
 		},
 		{
 			"ImportPath": "golang.org/x/tools/go/loader",
-			"Comment": "null-1248",
-			"Rev": "9622599500adce60e13ea72b2ac73fd516d57493"
+			"Rev": "69db398fe0e69396984e3967724820c1f631e971"
 		},
 		{
 			"ImportPath": "golang.org/x/tools/go/types",
